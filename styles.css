@@ -45,4 +45,9 @@ nav header {
     margin-block-end: 10px;
     width: 50%;
     margin-left: 20px;
-)
+}
+
+@media (max-width: 600px)
+body {
+    font-size: 30px;
+  }
