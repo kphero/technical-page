@@ -1,0 +1,48 @@
+#navbar {
+    height: 100%;
+    width: 350px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(150, 143, 143);
+    overflow-x: hidden;
+    padding-top: 20px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#main-doc {
+    margin-left: 350px;
+}
+nav header {
+    padding: 0px 10px;
+    margin: 0px 10px;
+    font-size: 25px;
+    font-weight: 600;
+    border: 5px solid black;
+}
+.nav-link {
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
+#navin {
+    border-top: 1px solid black;
+    padding-top: 10px;
+}
+.main-section {
+    display: block;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    width: 50%;
+    margin-left: 20px;
+)
